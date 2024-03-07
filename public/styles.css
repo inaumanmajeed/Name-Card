@@ -2,19 +2,12 @@ body {
     font-family: "Times New Roman", Times, serif;
     margin: 0 auto;
     padding: 25px;
-    max-width: 400px;
-    min-width: 400px;
+    max-width: 420px;
+    min-width: 420px;
     background-color: #dfe6e9;
     text-align: center;
   }
-  
-  .heading {
-    text-align: center;
-    font-size: 2em;
-    color: #2d3436;
-    margin: 20px 0 30px;
-  }
-  
+
   .card {
     border-radius: 25px;
     position: relative;
@@ -25,6 +18,14 @@ body {
     box-shadow: 0 2px 5px #ccc;
     text-align: left;
   }
+
+  .heading {
+    text-align: center;
+    font-size: 2em;
+    color: #2d3436;
+    margin: 20px 0 30px;
+  }
+  
   
   .top {
     border-radius: 25px 25px 0 0;
